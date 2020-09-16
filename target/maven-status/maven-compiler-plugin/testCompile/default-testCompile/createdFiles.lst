@@ -1,0 +1,5 @@
+pages\LogInPage.class
+tests\FansEdgeTest.class
+tests\TestBase.class
+pages\CollegeTeamsPage.class
+pages\HomePage.class

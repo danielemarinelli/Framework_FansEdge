@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="87432" started-at="2020-09-16T17:22:22 CEST" finished-at="2020-09-16T17:23:50 CEST">
+    <groups>
+    </groups>
+    <test name="TestNGFansEdge_Framework" duration-ms="87432" started-at="2020-09-16T17:22:22 CEST" finished-at="2020-09-16T17:23:50 CEST">
+      <class name="tests.FansEdgeTest">
+        <test-method status="PASS" signature="initSuite()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="initSuite" is-config="true" duration-ms="134" started-at="2020-09-16T17:22:22 CEST" finished-at="2020-09-16T17:22:22 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSuite -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="initDriver" is-config="true" duration-ms="3587" started-at="2020-09-16T17:22:22 CEST" finished-at="2020-09-16T17:22:26 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="initTestReport(java.lang.reflect.Method)[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="initTestReport" is-config="true" duration-ms="11" started-at="2020-09-16T17:22:26 CEST" finished-at="2020-09-16T17:22:26 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FansEdgeTest.getAllCollegeTeamsDisplayed() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestReport -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="launchApp" is-config="true" duration-ms="23299" started-at="2020-09-16T17:22:26 CEST" finished-at="2020-09-16T17:22:49 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="getAllCollegeTeamsDisplayed()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="getAllCollegeTeamsDisplayed" duration-ms="23517" started-at="2020-09-16T17:22:49 CEST" finished-at="2020-09-16T17:23:13 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCollegeTeamsDisplayed -->
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="closeReport" is-config="true" duration-ms="4" started-at="2020-09-16T17:23:13 CEST" finished-at="2020-09-16T17:23:13 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+        <test-method status="PASS" signature="initTestReport(java.lang.reflect.Method)[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="initTestReport" is-config="true" duration-ms="1" started-at="2020-09-16T17:23:13 CEST" finished-at="2020-09-16T17:23:13 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FansEdgeTest.getBillsCapsDisplayed() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestReport -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="launchApp" is-config="true" duration-ms="1098" started-at="2020-09-16T17:23:13 CEST" finished-at="2020-09-16T17:23:14 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="getBillsCapsDisplayed()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="getBillsCapsDisplayed" duration-ms="15882" started-at="2020-09-16T17:23:14 CEST" finished-at="2020-09-16T17:23:30 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBillsCapsDisplayed -->
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="closeReport" is-config="true" duration-ms="2" started-at="2020-09-16T17:23:30 CEST" finished-at="2020-09-16T17:23:30 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+        <test-method status="PASS" signature="initTestReport(java.lang.reflect.Method)[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="initTestReport" is-config="true" duration-ms="1" started-at="2020-09-16T17:23:30 CEST" finished-at="2020-09-16T17:23:30 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FansEdgeTest.getTigerWoodsItems() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestReport -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="launchApp" is-config="true" duration-ms="1026" started-at="2020-09-16T17:23:30 CEST" finished-at="2020-09-16T17:23:31 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="getTigerWoodsItems()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="getTigerWoodsItems" duration-ms="9883" started-at="2020-09-16T17:23:31 CEST" finished-at="2020-09-16T17:23:40 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTigerWoodsItems -->
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="closeReport" is-config="true" duration-ms="0" started-at="2020-09-16T17:23:40 CEST" finished-at="2020-09-16T17:23:40 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="launchApp" is-config="true" duration-ms="904" started-at="2020-09-16T17:23:40 CEST" finished-at="2020-09-16T17:23:41 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="initTestReport(java.lang.reflect.Method)[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="initTestReport" is-config="true" duration-ms="0" started-at="2020-09-16T17:23:40 CEST" finished-at="2020-09-16T17:23:40 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FansEdgeTest.verifyWrongCredentials() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestReport -->
+        <test-method status="PASS" signature="verifyWrongCredentials()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="verifyWrongCredentials" duration-ms="7156" started-at="2020-09-16T17:23:41 CEST" finished-at="2020-09-16T17:23:48 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWrongCredentials -->
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="closeReport" is-config="true" duration-ms="1" started-at="2020-09-16T17:23:48 CEST" finished-at="2020-09-16T17:23:48 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="cleanUp" is-config="true" duration-ms="1016" started-at="2020-09-16T17:23:48 CEST" finished-at="2020-09-16T17:23:49 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="clearReport()[pri:0, instance:tests.FansEdgeTest@4fe3c938]" name="clearReport" is-config="true" duration-ms="337" started-at="2020-09-16T17:23:50 CEST" finished-at="2020-09-16T17:23:50 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearReport -->
+      </class> <!-- tests.FansEdgeTest -->
+    </test> <!-- TestNGFansEdge_Framework -->
+  </suite> <!-- Suite1 -->
+</testng-results>
